@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Three Buttons Two Activities</string>
+    <string name="choice_1">Choice 1</string>
+    <string name="choice_2">Choice 2</string>
+    <string name="choice_3">Choice 3</string>
+    <string name="choice_1_text">Choice 1 - you get money</string>
+    <string name="choice_2_text">Choice 2 - you get a new car</string>
+    <string name="choice_3_text">Choice 3 - you get applause</string>
+</resources>
